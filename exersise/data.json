@@ -1,0 +1,52 @@
+[
+  {
+    "Title": "5G Revolution",
+    "Author": "TechGeek123",
+    "Description": "Exploring the impact of 5G technology on various industries.",
+    "Likes": 256,
+    "Comments": [
+      { "body": "Great insights!" },
+      { "body": "Looking forward to more updates." }
+    ]
+  },
+  {
+    "Title": "AI in Healthcare",
+    "Author": "MedTechGuru",
+    "Description": "How artificial intelligence is transforming patient care and diagnostics.",
+    "Likes": 432,
+    "Comments": [
+      { "body": "Fascinating read!" },
+      { "body": "AI is truly revolutionizing healthcare." }
+    ]
+  },
+  {
+    "Title": "Blockchain Beyond Cryptocurrency",
+    "Author": "CryptoWizard",
+    "Description": "Delving into the diverse applications of blockchain technology beyond digital currencies.",
+    "Likes": 189,
+    "Comments": [
+      { "body": "Blockchain's potential is vast!" },
+      { "body": "Exciting to see its impact across industries." }
+    ]
+  },
+  {
+    "Title": "The Rise of IoT",
+    "Author": "ConnectivityExpert",
+    "Description": "Exploring the growth and implications of the Internet of Things in everyday life.",
+    "Likes": 317,
+    "Comments": [
+      { "body": "IoT is everywhere!" },
+      { "body": "Can't wait to see what's next." }
+    ]
+  },
+  {
+    "Title": "Cybersecurity Trends",
+    "Author": "SecureTechPro",
+    "Description": "Highlighting emerging trends and challenges in the cybersecurity landscape.",
+    "Likes": 503,
+    "Comments": [
+      { "body": "Staying informed is crucial!" },
+      { "body": "Great overview of the current threats." }
+    ]
+  }
+]

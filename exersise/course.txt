@@ -1,0 +1,11 @@
+Frontend fundamentals topics:
+CLI Commands
+Git and Github
+Intro to JavaScript
+JS ES6 Features
+OOP
+Asynchronous JavaScript
+MongoDB Atlas
+Intro to NodeJS
+Back-End CRUD Operation
+Back-End Authentication
