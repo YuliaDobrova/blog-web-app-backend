@@ -1,0 +1,6 @@
+#string *** adding salt to the password
+MONGODB_URI=mongodb+srv://<login>:<password>@clusterName.mongodb.net/
+#choose thr port but not the same as for the frontend part
+PORT=0000
+#string *** adding salt to the password with letter and symbols
+JWT_SECRET="ABCDEFG"
